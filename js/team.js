@@ -10,7 +10,7 @@ const API = "https://discord-web-api.glitch.me/discord/user/";
 
 const owners = [
     {
-        "id": "848164182334898216",
+        "id": "1040871777519292438",
         "post": "開發者",
         "GHURL": "https://github.com/Tira-tw",
         "InstaURL": "",
